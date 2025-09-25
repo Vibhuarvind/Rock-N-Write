@@ -1,0 +1,36 @@
+Response: 
+{'ResponseMetadata': {'RequestId': '6b99366e-f300-4e6e-9578-53ee45d015f3', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Wed, 24 Sep 2025 23:32:16 GMT', 'content-type': 'application/json', 'content-length': '2045', 'connection': 'keep-alive', 'x-amzn-requestid': '6b99366e-f300-4e6e-9578-53ee45d015f3', 'x-amzn-bedrock-invocation-latency': '8129', 'x-amzn-bedrock-output-token-count': '395', 'x-amzn-bedrock-input-token-count': '21'}, 'RetryAttempts': 0}, 'contentType': 'application/json', 'body': <botocore.response.StreamingBody 
+object at 0x0000022ED6C34B50>}
+
+
+Response Body:
+{'id': 'msg_bdrk_01HT7MiARHT8QofJJaBCYUD7', 'type': 'message', 'role': 'assistant', 'model': 'claude-3-sonnet-20240229', 'content': [{'type': 'text', 'text': "Here are some pointwise ways to live life to the fullest:\n\n1. Cultivate gratitude: Appreciate the small things in life and practice gratitude daily. This mindset can help you find joy in the present moment.\n\n2. Pursue your passions: Identify your interests and hobbies, and make time for activities that bring you fulfillment and joy.\n\n3. Embrace new experiences: Step 
+out of your comfort zone and try new things. This can help you grow, learn, and discover new aspects of yourself.\n\n4. Nurture relationships: Invest time and effort into building and maintaining meaningful connections with family, friends, and loved ones.\n\n5. Practice self-care: Take care of your physical, mental, and emotional well-being by engaging 
+in activities that nourish your mind, body, and soul.\n\n6. Set goals and work towards them: Identify your aspirations and set achievable goals. The process of working towards your goals can bring a sense of purpose and accomplishment.\n\n7. Give back: Find ways to contribute to your community or causes you care about. Helping others can bring a sense of fulfillment and perspective.\n\n8. Embrace lifelong learning: Continuously seek out opportunities to learn and grow, whether through formal education, reading, or exploring new 
+interests.\n\n9. Live in the present: While planning for the future is important, don't forget to appreciate and savor the present moment.\n\n10. Find balance: Strive to maintain a healthy balance between work, leisure, and personal responsibilities. This can help prevent burnout and promote overall well-being.\n\nRemember, living life to the fullest is 
+a personal journey, and what brings fulfillment may vary from individual to individual. The key is to identify what truly matters to you and prioritize those aspects in your life."}], 'stop_reason': 'end_turn', 'stop_sequence': None, 'usage': {'input_tokens': 21, 'output_tokens': 395}}
+
+
+Response Text:
+Here are some pointwise ways to live life to the fullest:
+
+1. Cultivate gratitude: Appreciate the small things in life and practice gratitude daily. This mindset can help you find joy in the present moment.
+
+2. Pursue your passions: Identify your interests and hobbies, and make time for activities that bring you fulfillment and joy.
+
+3. Embrace new experiences: Step out of your comfort zone and try new things. This can help you grow, learn, and discover new aspects of yourself.
+
+4. Nurture relationships: Invest time and effort into building and maintaining meaningful connections with family, friends, and loved ones.
+
+5. Practice self-care: Take care of your physical, mental, and emotional well-being by engaging in activities that nourish your mind, body, and soul.
+
+6. Set goals and work towards them: Identify your aspirations and set achievable goals. The process of working towards your goals can bring a sense of purpose and accomplishment.
+7. Give back: Find ways to contribute to your community or causes you care about. Helping others can bring a sense of fulfillment and perspective.
+
+8. Embrace lifelong learning: Continuously seek out opportunities to learn and grow, whether through formal education, reading, or exploring new interests.
+
+9. Live in the present: While planning for the future is important, don't forget to appreciate and savor the present moment.
+
+10. Find balance: Strive to maintain a healthy balance between work, leisure, and personal responsibilities. This can help prevent burnout and promote overall well-being.        
+
+Remember, living life to the fullest is a personal journey, and what brings fulfillment may vary from individual to individual. The key is to identify what truly matters to you and prioritize those aspects in your life.
