@@ -1,4 +1,4 @@
-# AWS Bedrock Claude 3 Demo
+# AWS Bedrock Foundational Model - research and understanding
 
 This repository demonstrates how to use **AWS Bedrock** to interact with **Anthropic Claude 3** using Python (`boto3`). The script sends a prompt as a conversation and retrieves the model’s response using the **Messages API**, which is required for Claude 3.
 
